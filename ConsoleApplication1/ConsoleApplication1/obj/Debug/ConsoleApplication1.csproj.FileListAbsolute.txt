@@ -1,0 +1,5 @@
+/Users/ryoshiraishi/ics0031-2020f/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/Users/ryoshiraishi/ics0031-2020f/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
+/Users/ryoshiraishi/ics0031-2020f/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csprojAssemblyReference.cache
+/Users/ryoshiraishi/ics0031-2020f/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/Users/ryoshiraishi/ics0031-2020f/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb

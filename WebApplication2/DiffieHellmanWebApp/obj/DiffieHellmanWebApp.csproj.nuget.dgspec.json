@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ryoshiraishi/ics0031-2020f/WebApplication2/DiffieHellmanWebApp/DiffieHellmanWebApp.csproj": {}
+  },
+  "projects": {
+    "/Users/ryoshiraishi/ics0031-2020f/WebApplication2/CryptoDiffieHellman/CryptoDiffieHellman.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ryoshiraishi/ics0031-2020f/WebApplication2/CryptoDiffieHellman/CryptoDiffieHellman.csproj",
+        "projectName": "CryptoDiffieHellman",
+        "projectPath": "/Users/ryoshiraishi/ics0031-2020f/WebApplication2/CryptoDiffieHellman/CryptoDiffieHellman.csproj",
+        "packagesPath": "/Users/ryoshiraishi/.nuget/packages/",
+        "outputPath": "/Users/ryoshiraishi/ics0031-2020f/WebApplication2/CryptoDiffieHellman/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ryoshiraishi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ryoshiraishi/ics0031-2020f/WebApplication2/DiffieHellmanWebApp/DiffieHellmanWebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ryoshiraishi/ics0031-2020f/WebApplication2/DiffieHellmanWebApp/DiffieHellmanWebApp.csproj",
+        "projectName": "DiffieHellmanWebApp",
+        "projectPath": "/Users/ryoshiraishi/ics0031-2020f/WebApplication2/DiffieHellmanWebApp/DiffieHellmanWebApp.csproj",
+        "packagesPath": "/Users/ryoshiraishi/.nuget/packages/",
+        "outputPath": "/Users/ryoshiraishi/ics0031-2020f/WebApplication2/DiffieHellmanWebApp/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ryoshiraishi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/ryoshiraishi/ics0031-2020f/WebApplication2/CryptoDiffieHellman/CryptoDiffieHellman.csproj": {
+                "projectPath": "/Users/ryoshiraishi/ics0031-2020f/WebApplication2/CryptoDiffieHellman/CryptoDiffieHellman.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

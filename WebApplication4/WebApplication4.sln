@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{BF890CBA-AE6E-4371-822C-05999955C92D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{6AA5EB90-980A-4FA0-AD7F-D2E4AB72847D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoRsa", "CryptoRsa\CryptoRsa.csproj", "{B27507EA-8ECE-4599-92FB-CE2993E7ECEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF890CBA-AE6E-4371-822C-05999955C92D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF890CBA-AE6E-4371-822C-05999955C92D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF890CBA-AE6E-4371-822C-05999955C92D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF890CBA-AE6E-4371-822C-05999955C92D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AA5EB90-980A-4FA0-AD7F-D2E4AB72847D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AA5EB90-980A-4FA0-AD7F-D2E4AB72847D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AA5EB90-980A-4FA0-AD7F-D2E4AB72847D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AA5EB90-980A-4FA0-AD7F-D2E4AB72847D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B27507EA-8ECE-4599-92FB-CE2993E7ECEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B27507EA-8ECE-4599-92FB-CE2993E7ECEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B27507EA-8ECE-4599-92FB-CE2993E7ECEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B27507EA-8ECE-4599-92FB-CE2993E7ECEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

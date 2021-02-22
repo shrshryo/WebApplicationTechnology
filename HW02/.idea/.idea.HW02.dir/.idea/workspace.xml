@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70a5af7b-8403-48a3-855f-be4a881ed1e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../WebApplication2/RsaWebApp/obj/Debug/netcoreapp3.1/RsaWebApp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HW02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HW02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW03/.idea/.idea.HW03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW03/.idea/.idea.HW03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW03/RSA/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../HW03/RSA/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW04/.idea/.idea.HW04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW04/.idea/.idea.HW04/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW05/.idea/.idea.HW05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW05/.idea/.idea.HW05/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW05/RsaWithBytes/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../HW05/RsaWithBytes/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW05/RsaWithBytes/bin/Debug/RsaWithBytes.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../HW05/RsaWithBytes/bin/Debug/RsaWithBytes.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW05/RsaWithBytes/obj/Debug/RsaWithBytes.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../HW05/RsaWithBytes/obj/Debug/RsaWithBytes.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RsaWithText/.idea/.idea.RsaWithText/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RsaWithText/.idea/.idea.RsaWithText/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication2/.idea/.idea.WebApplication2.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication2/.idea/.idea.WebApplication2.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication2/.idea/.idea.WebApplication2/.idea/dataSources/bb45089b-295e-4539-9614-965b300a125a.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication2/.idea/.idea.WebApplication2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication2/.idea/.idea.WebApplication2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication2/WebApp/obj/Debug/netcoreapp3.1/WebApp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication2/WebApp/obj/Debug/netcoreapp3.1/WebApp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication3/.idea/.idea.WebApplication3.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication3/.idea/.idea.WebApplication3.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication3/.idea/.idea.WebApplication3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication3/.idea/.idea.WebApplication3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication3/CryptoDiffieHellman/obj/Debug/netstandard2.1/CryptoDiffieHellman.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication3/CryptoDiffieHellman/obj/Debug/netstandard2.1/CryptoDiffieHellman.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication3/DiffieHellman/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication3/DiffieHellman/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication3/DiffieHellman/obj/Debug/netcoreapp3.1/DiffieHellman.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication3/DiffieHellman/obj/Debug/netcoreapp3.1/DiffieHellman.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication3/WebApp/app.db" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication3/WebApp/app.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication3/WebApp/obj/Debug/netcoreapp3.1/WebApp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication3/WebApp/obj/Debug/netcoreapp3.1/WebApp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/.idea/.idea.WebApplication4/.idea/dataSources/fe70fa25-37f7-4f41-9b32-d8a2605d7e96.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/.idea/.idea.WebApplication4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/.idea/.idea.WebApplication4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/CryptoRsa/RsaCodec.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/CryptoRsa/RsaCodec.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/CryptoRsa/bin/Debug/netstandard2.1/CryptoRsa.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/CryptoRsa/bin/Debug/netstandard2.1/CryptoRsa.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/CryptoRsa/bin/Debug/netstandard2.1/CryptoRsa.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/CryptoRsa/bin/Debug/netstandard2.1/CryptoRsa.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/CryptoRsa/obj/Debug/netstandard2.1/CryptoRsa.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/CryptoRsa/obj/Debug/netstandard2.1/CryptoRsa.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/CryptoRsa/obj/Debug/netstandard2.1/CryptoRsa.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/CryptoRsa/obj/Debug/netstandard2.1/CryptoRsa.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/CryptoRsa/obj/Debug/netstandard2.1/CryptoRsa.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/CryptoRsa/obj/Debug/netstandard2.1/CryptoRsa.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/WebApp/app.db" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/WebApp/app.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/WebApp/bin/Debug/netcoreapp3.1/CryptoRsa.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/WebApp/bin/Debug/netcoreapp3.1/CryptoRsa.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/WebApp/bin/Debug/netcoreapp3.1/CryptoRsa.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/WebApp/bin/Debug/netcoreapp3.1/CryptoRsa.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/WebApp/bin/Debug/netcoreapp3.1/WebApp.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/WebApp/bin/Debug/netcoreapp3.1/WebApp.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/WebApp/bin/Debug/netcoreapp3.1/WebApp.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/WebApp/bin/Debug/netcoreapp3.1/WebApp.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/WebApp/bin/Debug/netcoreapp3.1/WebApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/WebApp/bin/Debug/netcoreapp3.1/WebApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/WebApp/bin/Debug/netcoreapp3.1/WebApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/WebApp/bin/Debug/netcoreapp3.1/WebApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/WebApp/bin/Debug/netcoreapp3.1/app.db" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/WebApp/bin/Debug/netcoreapp3.1/app.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/WebApp/obj/Debug/netcoreapp3.1/WebApp.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/WebApp/obj/Debug/netcoreapp3.1/WebApp.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/WebApp/obj/Debug/netcoreapp3.1/WebApp.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/WebApp/obj/Debug/netcoreapp3.1/WebApp.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/WebApp/obj/Debug/netcoreapp3.1/WebApp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/WebApp/obj/Debug/netcoreapp3.1/WebApp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/WebApp/obj/Debug/netcoreapp3.1/WebApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/WebApp/obj/Debug/netcoreapp3.1/WebApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/WebApp/obj/Debug/netcoreapp3.1/WebApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/WebApp/obj/Debug/netcoreapp3.1/WebApp.pdb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jKieXwJjK5xNf1Nl1BILIUAZGq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70a5af7b-8403-48a3-855f-be4a881ed1e8" name="Default Changelist" comment="" />
+      <created>1603559279704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603559279704</updated>
+      <workItem from="1603559289660" duration="14000" />
+      <workItem from="1610911744688" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

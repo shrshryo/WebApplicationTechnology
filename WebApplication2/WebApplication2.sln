@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{C7A554ED-856A-43BE-8319-CF5068A9B744}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{8AE3EE9C-20C3-4A0C-BCF2-BE05371F72EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiffieHellmanWebApp", "DiffieHellmanWebApp\DiffieHellmanWebApp.csproj", "{C9E1DABD-40EA-46A5-A8C8-7A464DB06AB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoDiffieHellman", "CryptoDiffieHellman\CryptoDiffieHellman.csproj", "{0F4F7583-0606-4C58-B4CD-E4ACBE7F7163}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RsaWebApp", "RsaWebApp\RsaWebApp.csproj", "{9469503B-5580-4DD1-99FF-E586DE815DD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoRsa", "CryptoRsa\CryptoRsa.csproj", "{224AE6A0-6C06-40B7-AE46-82BFC1D032CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7A554ED-856A-43BE-8319-CF5068A9B744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7A554ED-856A-43BE-8319-CF5068A9B744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7A554ED-856A-43BE-8319-CF5068A9B744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7A554ED-856A-43BE-8319-CF5068A9B744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AE3EE9C-20C3-4A0C-BCF2-BE05371F72EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE3EE9C-20C3-4A0C-BCF2-BE05371F72EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE3EE9C-20C3-4A0C-BCF2-BE05371F72EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE3EE9C-20C3-4A0C-BCF2-BE05371F72EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9E1DABD-40EA-46A5-A8C8-7A464DB06AB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E1DABD-40EA-46A5-A8C8-7A464DB06AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E1DABD-40EA-46A5-A8C8-7A464DB06AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E1DABD-40EA-46A5-A8C8-7A464DB06AB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F4F7583-0606-4C58-B4CD-E4ACBE7F7163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4F7583-0606-4C58-B4CD-E4ACBE7F7163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4F7583-0606-4C58-B4CD-E4ACBE7F7163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4F7583-0606-4C58-B4CD-E4ACBE7F7163}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9469503B-5580-4DD1-99FF-E586DE815DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9469503B-5580-4DD1-99FF-E586DE815DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9469503B-5580-4DD1-99FF-E586DE815DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9469503B-5580-4DD1-99FF-E586DE815DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{224AE6A0-6C06-40B7-AE46-82BFC1D032CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{224AE6A0-6C06-40B7-AE46-82BFC1D032CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224AE6A0-6C06-40B7-AE46-82BFC1D032CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{224AE6A0-6C06-40B7-AE46-82BFC1D032CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

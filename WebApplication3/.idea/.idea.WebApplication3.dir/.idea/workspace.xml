@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b8b487d-8a6d-4583-9e58-f114cc33ae52" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../HW02/.idea/.idea.HW02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW02/.idea/.idea.HW02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW03/.idea/.idea.HW03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW03/.idea/.idea.HW03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW03/RSA/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../HW03/RSA/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW04/.idea/.idea.HW04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW04/.idea/.idea.HW04/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW05/.idea/.idea.HW05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW05/.idea/.idea.HW05/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW05/RsaWithBytes/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../HW05/RsaWithBytes/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW05/RsaWithBytes/bin/Debug/RsaWithBytes.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../HW05/RsaWithBytes/bin/Debug/RsaWithBytes.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW05/RsaWithBytes/obj/Debug/RsaWithBytes.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../HW05/RsaWithBytes/obj/Debug/RsaWithBytes.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RsaWithText/.idea/.idea.RsaWithText/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RsaWithText/.idea/.idea.RsaWithText/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication2/.idea/.idea.WebApplication2.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication2/.idea/.idea.WebApplication2.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApplication3.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApplication3.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApplication3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApplication3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CryptoDiffieHellman/obj/Debug/netstandard2.1/CryptoDiffieHellman.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CryptoDiffieHellman/obj/Debug/netstandard2.1/CryptoDiffieHellman.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiffieHellman/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DiffieHellman/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/app.db" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/app.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/.idea/.idea.WebApplication4/.idea/dataSources/fe70fa25-37f7-4f41-9b32-d8a2605d7e96.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/.idea/.idea.WebApplication4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/.idea/.idea.WebApplication4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/CryptoRsa/RsaCodec.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/CryptoRsa/RsaCodec.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/CryptoRsa/bin/Debug/netstandard2.1/CryptoRsa.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/CryptoRsa/bin/Debug/netstandard2.1/CryptoRsa.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/CryptoRsa/bin/Debug/netstandard2.1/CryptoRsa.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/CryptoRsa/bin/Debug/netstandard2.1/CryptoRsa.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/CryptoRsa/obj/Debug/netstandard2.1/CryptoRsa.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/CryptoRsa/obj/Debug/netstandard2.1/CryptoRsa.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/CryptoRsa/obj/Debug/netstandard2.1/CryptoRsa.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/CryptoRsa/obj/Debug/netstandard2.1/CryptoRsa.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/CryptoRsa/obj/Debug/netstandard2.1/CryptoRsa.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/CryptoRsa/obj/Debug/netstandard2.1/CryptoRsa.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/WebApp/app.db" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/WebApp/app.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/WebApp/bin/Debug/netcoreapp3.1/CryptoRsa.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/WebApp/bin/Debug/netcoreapp3.1/CryptoRsa.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/WebApp/bin/Debug/netcoreapp3.1/CryptoRsa.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/WebApp/bin/Debug/netcoreapp3.1/CryptoRsa.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/WebApp/bin/Debug/netcoreapp3.1/WebApp.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/WebApp/bin/Debug/netcoreapp3.1/WebApp.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/WebApp/bin/Debug/netcoreapp3.1/WebApp.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/WebApp/bin/Debug/netcoreapp3.1/WebApp.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/WebApp/bin/Debug/netcoreapp3.1/WebApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/WebApp/bin/Debug/netcoreapp3.1/WebApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/WebApp/bin/Debug/netcoreapp3.1/WebApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/WebApp/bin/Debug/netcoreapp3.1/WebApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/WebApp/bin/Debug/netcoreapp3.1/app.db" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/WebApp/bin/Debug/netcoreapp3.1/app.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/WebApp/obj/Debug/netcoreapp3.1/WebApp.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/WebApp/obj/Debug/netcoreapp3.1/WebApp.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/WebApp/obj/Debug/netcoreapp3.1/WebApp.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/WebApp/obj/Debug/netcoreapp3.1/WebApp.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/WebApp/obj/Debug/netcoreapp3.1/WebApp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/WebApp/obj/Debug/netcoreapp3.1/WebApp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/WebApp/obj/Debug/netcoreapp3.1/WebApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/WebApp/obj/Debug/netcoreapp3.1/WebApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication4/WebApp/obj/Debug/netcoreapp3.1/WebApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication4/WebApp/obj/Debug/netcoreapp3.1/WebApp.pdb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Domain/DiffieHellman.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CryptoDiffieHellman/DiffieHellmanConsole.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/DiffieHellmans/Create.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DiffieHellman/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/Rsa.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DiffieHellman/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jmBtivStL6dYVuEvNnddPo0brx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b8b487d-8a6d-4583-9e58-f114cc33ae52" name="Default Changelist" comment="" />
+      <created>1604399603185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604399603185</updated>
+      <workItem from="1604399612901" duration="1084000" />
+      <workItem from="1604400729823" duration="22000" />
+      <workItem from="1610910525264" duration="53000" />
+      <workItem from="1610911515894" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="109" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604400743978">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="109" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1604400743978" />
+  </component>
+</project>

@@ -1,0 +1,9 @@
+/Users/ryoshiraishi/ics0031-2020f/WebApplication4/CryptoRsa/bin/Debug/netstandard2.1/CryptoRsa.deps.json
+/Users/ryoshiraishi/ics0031-2020f/WebApplication4/CryptoRsa/bin/Debug/netstandard2.1/CryptoRsa.dll
+/Users/ryoshiraishi/ics0031-2020f/WebApplication4/CryptoRsa/bin/Debug/netstandard2.1/CryptoRsa.pdb
+/Users/ryoshiraishi/ics0031-2020f/WebApplication4/CryptoRsa/obj/Debug/netstandard2.1/CryptoRsa.csprojAssemblyReference.cache
+/Users/ryoshiraishi/ics0031-2020f/WebApplication4/CryptoRsa/obj/Debug/netstandard2.1/CryptoRsa.AssemblyInfoInputs.cache
+/Users/ryoshiraishi/ics0031-2020f/WebApplication4/CryptoRsa/obj/Debug/netstandard2.1/CryptoRsa.AssemblyInfo.cs
+/Users/ryoshiraishi/ics0031-2020f/WebApplication4/CryptoRsa/obj/Debug/netstandard2.1/CryptoRsa.csproj.CoreCompileInputs.cache
+/Users/ryoshiraishi/ics0031-2020f/WebApplication4/CryptoRsa/obj/Debug/netstandard2.1/CryptoRsa.dll
+/Users/ryoshiraishi/ics0031-2020f/WebApplication4/CryptoRsa/obj/Debug/netstandard2.1/CryptoRsa.pdb
